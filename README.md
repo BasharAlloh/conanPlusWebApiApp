@@ -12,7 +12,7 @@ This project is a **Web API** developed for **Conan Plus**. It is designed to ha
 - **Responsive UI**: A clean, responsive user interface built for ease of use.
 
 ## Technologies Used
-- **.NET 6** for backend development.
+- **.NET 8** for backend development.
 - **Entity Framework Core** for database management.
 - **SendGrid API** for sending emails.
 - **JWT Authentication** for secure API access.
