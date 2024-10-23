@@ -19,9 +19,3 @@ This project is a **Web API** developed for **Conan Plus**. It is designed to ha
 - **HTML/CSS/JS** for the frontend dashboard.
 - **Swagger** for API documentation.
 
-## Installation and Setup
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/BasharAlloh/conanPlusWebApiApp.git
-   cd conanPlusWebApiApp
