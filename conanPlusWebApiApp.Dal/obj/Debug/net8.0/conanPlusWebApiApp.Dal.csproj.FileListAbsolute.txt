@@ -1,0 +1,17 @@
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\bin\Debug\net8.0\conanPlusWebApiApp.Dal.deps.json
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\bin\Debug\net8.0\conanPlusWebApiApp.Dal.dll
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\bin\Debug\net8.0\conanPlusWebApiApp.Dal.pdb
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\bin\Debug\net8.0\conanPlusWebApiApp.Models.dll
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\bin\Debug\net8.0\conanPlusWebApiApp.Models.pdb
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\conanPlusWebApiApp.Dal.csproj.AssemblyReference.cache
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\conanPlusWebApiApp.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\conanPlusWebApiApp.Dal.AssemblyInfoInputs.cache
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\conanPlusWebApiApp.Dal.AssemblyInfo.cs
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\conanPlusWebApiApp.Dal.csproj.CoreCompileInputs.cache
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\conanPlusWebApiApp.Dal.csproj.CopyComplete
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\conanPlusWebApiApp.Dal.dll
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\refint\conanPlusWebApiApp.Dal.dll
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\conanPlusWebApiApp.Dal.pdb
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\ref\conanPlusWebApiApp.Dal.dll
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\bin\Debug\net8.0\conanPlusWebApiApp.Dal.runtimeconfig.json
+C:\Users\gameb\source\repos\conanPlusWebApiApp\conanPlusWebApiApp.Dal\obj\Debug\net8.0\conanPlusWebApiApp.Dal.genruntimeconfig.cache
